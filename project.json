@@ -1,10 +1,9 @@
 {
-  "name": "Training_8Feb",
-  "description": "Blank Process",
+  "name": "ExtendedRoboticEnterpriseFrameworkTemplate",
+  "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
-    "UiPath.Mail.Activities": "[1.9.5]",
     "UiPath.System.Activities": "[20.10.3]",
     "UiPath.UIAutomation.Activities": "[20.10.8]"
   },
@@ -37,18 +36,18 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "b4aa85f7-a41f-40c2-8b28-2f1bae44d29a",
+      "uniqueId": "368d9161-4d42-41e3-a124-a23f5a7d37fa",
       "input": [],
       "output": []
     }
   ],
-  "isTemplate": false,
+  "isTemplate": true,
   "templateProjectData": {},
   "publishData": {}
 }
